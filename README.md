@@ -22,7 +22,7 @@ Además, la Transformación Digital impulsa la adopción de herramientas colabor
 
 ## Autor
 
-**[Danny Basantes]**  
+**Danny Basantes**  
 Carrera de Ciencia de Datos — Facultad de Ingeniería  
 Universidad Nacional de Chimborazo (UNACH)  
 Período académico: [1s-2026]
